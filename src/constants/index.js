@@ -27,7 +27,7 @@ import {
   sql,
   laravel,
   express,
-} from "../assets";
+} from "../Assets";
 
 export const navLinks = [
   {
