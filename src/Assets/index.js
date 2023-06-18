@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/three.png";
+import threejs from "./tech/Three.png";
 import php from "./tech/php.png";
 import sql from "./tech/SQL.png";
 import express from "./tech/express.png";
